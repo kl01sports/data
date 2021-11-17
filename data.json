@@ -14,19 +14,19 @@
         {
           "id": "002",
           "name": "Arsenal Away 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22.png?raw=true",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22.PNG?raw=true",
           "isNew": false
         },
         {
           "id": "003",
           "name": "Barcelona UCL 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Barcelona UCL 21-22.png?raw=true",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Barcelona UCL 21-22.PNG?raw=true",
           "isNew": false
         },
         {
           "id": "004",
           "name": "Bayern Munich Away 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Bayern Munich Away 21-22.png?raw=true",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Bayern Munich Away 21-22.PNG?raw=true",
           "isNew": true
         }
       ]

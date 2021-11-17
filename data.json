@@ -3,7 +3,7 @@
     {
       "id": "fan",
       "name": "Fan Version",
-      "imageURL": "https://raw.githubusercontent.com/kl01sports/data/main/images/Fan%20Version%20Jersey/Ajax%20Third%20kit%2021-22.PNG",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan%20Version%20Jersey/Ajax%20Third%20kit%2021-22.PNG?raw=true",
       "products": [
         {
           "id": "001",
@@ -13,20 +13,20 @@
         },
         {
           "id": "002",
-          "name": "Chelsea Away Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22?raw=true",
+          "name": "Arsenal Away 21-22",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22.png?raw=true",
           "isNew": false
         },
         {
           "id": "003",
-          "name": "Chelsea 3rd Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-25.jpg?raw=true",
+          "name": "Barcelona UCL 21-22",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Barcelona UCL 21-22.png?raw=true",
           "isNew": false
         },
         {
           "id": "004",
-          "name": "Liverpool 5-0 Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-25.jpg?raw=true",
+          "name": "Bayern Munich Away 21-22",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Bayern Munich Away 21-22.png?raw=true",
           "isNew": true
         }
       ]

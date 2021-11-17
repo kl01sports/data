@@ -3,18 +3,18 @@
     {
       "id": "fan",
       "name": "Fan Version",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan%20Version%20Jersey/Ajax%20Third%20kit%2021-22.PNG?raw=true",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
       "products": [
         {
           "id": "001",
           "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan%20Version%20Jersey/Ajax%20Third%20kit%2021-22.PNG?raw=true",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
           "isNew": true
         },
         {
           "id": "002",
           "name": "Arsenal Away 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan%20Version%20Jersey/Arsenal%20Away%2021-22.PNG?raw=true",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22.PNG?raw=true",
           "isNew": false
         },
         {

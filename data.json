@@ -2,109 +2,31 @@
   "categories": [
     {
       "id": "fan",
-      "name": "Fan Version",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
+      "name": "Fan Versions",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Fan Version Jersey.jpg",
       "products": [
-        {
-          "id": "001",
-          "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
-          "isNew": true
-        },
-        {
-          "id": "002",
-          "name": "Arsenal Away 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Arsenal Away 21-22.PNG?raw=true",
-          "isNew": false
-        },
-        {
-          "id": "003",
-          "name": "Barcelona UCL 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Barcelona UCL 21-22.PNG?raw=true",
-          "isNew": false
-        },
-        {
-          "id": "004",
-          "name": "Bayern Munich Away 21-22",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Bayern Munich Away 21-22.PNG?raw=true",
-          "isNew": true
-        }
       ]
     },
     {
-      "id": "player",
-      "name": "Player Version",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
+      "id": "world_cup",
+      "name": "World Cup 2026",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/World Cup.jpg",
       "products": [
-        {
-          "id": "001",
-          "name": "Manchester United Home Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
-          "isNew": true
-        },
-        {
-          "id": "002",
-          "name": "Chelsea Away Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
-          "isNew": false
-        },
-        {
-          "id": "003",
-          "name": "Chelsea 3rd Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
-          "isNew": false
-        },
-        {
-          "id": "004",
-          "name": "Liverpool 5-0 Kit Fan",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
-          "isNew": true
-        }
       ]
     },
     {
-      "id": "training",
-      "name": "Training Kits",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
+      "id": "retro",
+      "name": "Retro Jerseys",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Retro.jpg",
       "products": [
-        {
-          "id": "001",
-          "name": "Chelsea Training Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
-          "isNew": false
-        },
-        {
-          "id": "002",
-          "name": "ManU Training Kit",
-          "imageURL": "",
-          "isNew": false
-        }
       ]
     },
     {
-      "id": "anthem",
-      "name": "Anthem Jackets",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-19.jpg?raw=true",
+      "id": "customisation",
+      "name": "Customisation",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Customisation.jpg",
       "products": [
-        {
-          "id": "001",
-          "name": "Chelsea Anthem Jacket",
-          "imageURL": "",
-          "isNew": true
-        }
-      ]
-    },
-    {
-      "id": "polo",
-      "name": "Polos",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/tee-2.jpg?raw=true",
-      "products": [
-        {
-          "id": "001",
-          "name": "Polo",
-          "imageURL": "",
-          "isNew": true
-        }
+
       ]
     }
   ]

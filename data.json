@@ -3,7 +3,7 @@
     {
       "id": "fan",
       "name": "Fan Versions",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Fan Version Jersey.jpg",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Fan Version Jersey.jpg?raw=true",
       "products": [
                 {
           "id": "001",
@@ -16,7 +16,7 @@
     {
       "id": "world_cup",
       "name": "World Cup 2026",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/World Cup.jpg",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/World Cup.jpg?raw=true",
       "products": [
                 {
           "id": "001",
@@ -29,7 +29,7 @@
     {
       "id": "retro",
       "name": "Retro Jerseys",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Retro.jpg",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Retro.jpg?raw=true",
       "products": [
                 {
           "id": "001",
@@ -42,7 +42,7 @@
     {
       "id": "customisation",
       "name": "Customisation",
-      "imageURL": "https://raw.githubusercontent.com/kl01sports/data/main/images/Titles/Customisation.jpg",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Customisation.jpg?raw=true",
       "products": [
         {
           "id": "001",

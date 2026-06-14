@@ -42,7 +42,7 @@
     {
       "id": "customisation",
       "name": "Customisation",
-      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Customisation.jpg",
+      "imageURL": "https://raw.githubusercontent.com/kl01sports/data/main/images/Titles/Customisation.jpg",
       "products": [
         {
           "id": "001",

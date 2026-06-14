@@ -5,6 +5,12 @@
       "name": "Fan Versions",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Fan Version Jersey.jpg",
       "products": [
+                {
+          "id": "001",
+          "name": "Ajax Third Kit",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
+          "isNew": true
+        }
       ]
     },
     {
@@ -12,6 +18,12 @@
       "name": "World Cup 2026",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/World Cup.jpg",
       "products": [
+                {
+          "id": "001",
+          "name": "Ajax Third Kit",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
+          "isNew": true
+        }
       ]
     },
     {
@@ -19,6 +31,12 @@
       "name": "Retro Jerseys",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Retro.jpg",
       "products": [
+                {
+          "id": "001",
+          "name": "Ajax Third Kit",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
+          "isNew": true
+        }
       ]
     },
     {
@@ -26,7 +44,12 @@
       "name": "Customisation",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Customisation.jpg",
       "products": [
-
+        {
+          "id": "001",
+          "name": "Ajax Third Kit",
+          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
+          "isNew": true
+        }
       ]
     }
   ]

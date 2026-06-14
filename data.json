@@ -2,15 +2,9 @@
   "categories": [
     {
       "id": "fan",
-      "name": "Fan Versions",
+      "name": "Fan Version",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Fan Version.jpg?raw=true",
       "products": [
-                {
-          "id": "001",
-          "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
-          "isNew": true
-        }
       ]
     },
     {
@@ -18,25 +12,13 @@
       "name": "World Cup 2026",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/World Cup.jpg?raw=true",
       "products": [
-                {
-          "id": "001",
-          "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
-          "isNew": true
-        }
       ]
     },
     {
       "id": "retro",
-      "name": "Retro Jerseys",
+      "name": "Retro",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Retro.jpg?raw=true",
       "products": [
-                {
-          "id": "001",
-          "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
-          "isNew": true
-        }
       ]
     },
     {
@@ -44,12 +26,13 @@
       "name": "Customisation",
       "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Customisation.jpg?raw=true",
       "products": [
+      ]
+    },
         {
-          "id": "001",
-          "name": "Ajax Third Kit",
-          "imageURL": "https://github.com/kl01sports/data/blob/main/images/Fan Version Jersey/Ajax Third kit 21-22.PNG?raw=true",
-          "isNew": true
-        }
+      "id": "player_version",
+      "name": "Player Version",
+      "imageURL": "https://github.com/kl01sports/data/blob/main/images/Titles/Player Version.jpg?raw=true",
+      "products": [
       ]
     }
   ]
